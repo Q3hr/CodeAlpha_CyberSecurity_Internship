@@ -139,7 +139,7 @@ else:
 
 ### Clone Repository
 ```bash
-git clone https://github.com/MAK554267/CodeAlpha_CyberSecurity_Internship.git
+git clone https://github.com/Q3hr/CodeAlpha_CyberSecurity_Internship.git
 cd CodeAlpha_CyberSecurity_Internship
 ```
 
